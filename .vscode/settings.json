@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "monitor.h": "c",
+        "lv_tabview.h": "c",
+        "lvgl.h": "c",
+        "lv_assert.h": "c"
+    }
+}
